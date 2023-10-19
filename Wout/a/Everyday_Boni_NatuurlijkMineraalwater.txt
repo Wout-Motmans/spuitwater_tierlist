@@ -1,0 +1,4 @@
+smaak:4
+bruis:5
+prijs:3.5
+fles:3.5
